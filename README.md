@@ -1,5 +1,3 @@
 # adc-tst
+update
 
-
-adc test program
-for windows 10
